@@ -1,6 +1,6 @@
 public static main(){
 
-int a=5;
+int a=22;
 int b;
 int c=a+b;
 
